@@ -50,7 +50,7 @@ The agent is ready to be integrated into any website chat widget using Lyzr’s 
 - Lyzr.ai Studio  
 - NLP and Intent Classification (within Lyzr modules)  
 - JSON/CSV for Knowledge Base  
-
+--------
 ##  Contact
 
 For queries or suggestions, feel
