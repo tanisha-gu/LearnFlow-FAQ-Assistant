@@ -43,6 +43,8 @@ The agent is ready to be integrated into any website chat widget using Lyzr’s 
 
 ##  Live Demo
 
+# before use check the link
+
  [View the Agent in Lyzr Studio](https://studio.lyzr.ai/agent/685e9749656af689f82ff2c2)
 
 ##  Technologies Used
