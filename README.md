@@ -27,7 +27,7 @@ We developed a smart FAQ Agent using **Lyzr.ai** that:
 - **Knowledge Base:** Contains structured FAQs and responses related to LearnFlow’s offerings.  
 - **Intent Recognition:** Detects what the user is asking (e.g., "When do classes start?").  
 - **Conversational Flow:** Ensures smooth transitions between questions and answers.  
-- **Lyzr Studio:** Used to design, test, and deploy the agent.
+- **Lyzr Studio:** Used to design, test and deploy the agent.
 
 ##  Training the Agent
 
