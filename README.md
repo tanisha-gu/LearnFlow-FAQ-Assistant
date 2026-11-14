@@ -1,6 +1,6 @@
 # LearnFlow-FAQ-Assistant
 #  Automated FAQ Agent using Lyzr.ai
-
+-------
 This project presents an AI-powered FAQ agent built with **Lyzr.ai** to handle repetitive queries related to course schedules, syllabus, and the enrollment process for an educational platform called **LearnFlow**.
 
 ##  Problem Statement
